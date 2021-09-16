@@ -1,0 +1,14 @@
+{
+  "mint-store-template": {
+    "file": "frontend/mint-store.php",
+    "title": "Mint store template",
+    "id": "mint-store",
+    "show_in_config": true
+  },
+  "mint-single-item-template": {
+    "file": "frontend/mint-single.php",
+    "title": "Mint single item template",
+    "id": "mint-single",
+    "show_in_config": true
+  }
+}
